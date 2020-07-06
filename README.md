@@ -1,1 +1,4 @@
-#Proyecto[D[D[D[D[D[D[D[D [3~[3~[3~[3~[3~[3~[F[A[B[B[B[C[C[C[C[C[C[C[
+# Proyecto Griselda
+
+Creación del modulo administrativo de la aplicacion Mobile de Recargas
+``` npm start  ```
